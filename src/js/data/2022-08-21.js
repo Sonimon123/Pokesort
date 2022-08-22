@@ -307,7 +307,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Professor Kukui",
     img: "Sun_Moon_Professor_Kukui.png",
     opts: {
-      gender: ["female"],
+      gender: ["male"],
       group: ["prof"],
 	  origin: ["game"],
 	  child: false
