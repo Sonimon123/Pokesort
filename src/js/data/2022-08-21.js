@@ -55,14 +55,14 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Professor Willow",
-    img: "332px-GO_Professor_Willow",
+    img: "332px-GO_Professor_Willow.png",
     opts: {
       gender: ["male"],
       group: ["prof"],
 	  origin: ["game"],
 	  child: false
     }
-  },
+  }//,
   // {
     // name: "Professor Turo",
     // img: "351px-Violet_Turo.png",
