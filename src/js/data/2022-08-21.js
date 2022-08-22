@@ -55,7 +55,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Professor Willow",
-    img: "332px-GO_Professor_Willow.png",
+    img: "GO_Professor_Willow.png",
     opts: {
       gender: ["male"],
       group: ["prof"],
