@@ -415,7 +415,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yuko",
-    img: "m07_yuko.png",
+    img: "yuko.png",
     opts: {
       gender: ["female"],
       group: ["prof"],
