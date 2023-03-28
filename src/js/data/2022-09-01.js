@@ -23,7 +23,9 @@ dataSet[dataSetVersion].options = [
       { name: "Gym Leaders", key: "gym" },
 	  { name: "Pokemon League", key: "league" },
 	  { name: "Villains", key: "villain" },
-	  { name: "Pokemon Trainers", key: "trainer" }
+	  { name: "Pokemon Trainers", key: "trainer" },
+	  { name: "Other", key: "other" }
+	  
 	]
   },
     {
@@ -1010,6 +1012,116 @@ dataSet[dataSetVersion].characterData = [
 	  group: ["prof"],
 	  group: ["villain"],
 	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Joe",
+    img: "Duel_Joe.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Tia",
+    img: "Duel_Tia.png",
+    opts: {
+      gender: ["Female"],
+	  group: ["other"],
+	  origin: ["spin"],
+	  child: true
+    }
+  },
+    {
+    name: "Brenda",
+    img: "Duel_Brenda.png",
+    opts: {
+      gender: ["Female"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Don Roger",
+    img: "Duel_Don_Roger.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Sharon",
+    img: "Duel_Sharon.png",
+    opts: {
+      gender: ["Female"],
+	  group: ["trainer"],
+	  origin: ["spin"],
+	  child: true
+    }
+  },
+    {
+    name: "Number 7",
+    img: "Duel_Number_7.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Nadya",
+    img: "Duel_Nadya.png",
+    opts: {
+      gender: ["Female"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Master Rosé",
+    img: "Duel_Master_Rosé.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Marabelle",
+    img: "Duel_Marabelle.png",
+    opts: {
+      gender: ["Female"],
+	  group: ["other"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Luca",
+    img: "Duel_Luca.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["other"],
+	  origin: ["spin"],
+	  child: true
+    }
+  },
+    {
+    name: "Karolin",
+    img: "Duel_Karolin.png",
+    opts: {
+      gender: ["Female"],
+	  group: ["other"],
+	  origin: ["spin"],
 	  child: false
     }
   }
