@@ -512,7 +512,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Misty",
     img: "Lets_Go_Pikachu_Eevee_Misty.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: true
@@ -522,7 +522,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Lt. Surge",
     img: "HGSS_Lt._Surge.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -532,7 +532,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Erika",
     img: "FRLG_Erika.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -542,7 +542,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Janine",
     img: "HeartGold_SoulSilver_Janine.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -552,7 +552,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Sabrina",
     img: "Sabrina_2.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -562,7 +562,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Blaine",
     img: "Blaine.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -572,7 +572,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Giovanni",
     img: "Giovanni_Ultra_Sun_and_Ultra_Moon.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  group: ["villain"],
 	  origin: ["game"],
@@ -583,7 +583,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Falkner",
     img: "HeartGold_SoulSilver_Falkner.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -593,7 +593,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Bugsy",
     img: "HGSS_Bugsy.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: true
@@ -603,7 +603,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Whitney",
     img: "HGSS_Whitney.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: true
@@ -613,7 +613,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Morty",
     img: "HeartGold_SoulSilver_Morty.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -623,7 +623,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Chuck",
     img: "HeartGold_SoulSilver_Chuck.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -633,7 +633,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Jasmine",
     img: "HGSS_Jasmine.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: true
@@ -643,7 +643,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Pryce",
     img: "HGSS_Pryce.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -653,7 +653,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Clair",
     img: "HeartGold_SoulSilver_Clair.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -663,7 +663,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Roxanne",
     img: "Omega_Ruby_Alpha_Sapphire_Roxanne.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: true
@@ -673,7 +673,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Brawly",
     img: "Omega_Ruby_Alpha_Sapphire_Brawly.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -683,7 +683,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Wattson",
     img: "Omega_Ruby_Alpha_Sapphire_Wattson.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -693,7 +693,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Flannery",
     img: "Omega_Ruby_Alpha_Sapphire_Flannery.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -703,7 +703,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Norman",
     img: "Omega_Ruby_Alpha_Sapphire_Norman.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -713,7 +713,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Winona",
     img: "Omega_Ruby_Alpha_Sapphire_Winona.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -723,7 +723,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Tate",
     img: "tate.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: true
@@ -733,7 +733,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Liza",
     img: "liza.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: true
@@ -743,7 +743,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Juan",
     img: "Emerald_Juan.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  origin: ["game"],
 	  child: false
@@ -753,7 +753,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Dr. Namba",
     img: "Dr_Namba.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["prof"],
 	  group: ["villain"],
 	  origin: ["anime"],
@@ -764,7 +764,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Faba",
     img: "Sun_Moon_Faba.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["prof"],
 	  group: ["villain"],
 	  origin: ["game"],
@@ -775,7 +775,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Molayne",
     img: "Sun_Moon_Molayne.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["prof"],
 	  group: ["league"],
 	  origin: ["game"],
@@ -786,7 +786,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Koga",
     img: "HGSS_Koga.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  group: ["league"],
 	  origin: ["game"],
@@ -797,7 +797,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Koga",
     img: "HGSS_Koga.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  group: ["league"],
 	  origin: ["game"],
@@ -808,7 +808,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Blue",
     img: "Sun_Moon_Blue.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["trainer"],
       group: ["gym"],
 	  group: ["league"],
@@ -821,7 +821,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Wallace",
     img: "Omega_Ruby_Alpha_Sapphire_Wallace.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["gym"],
 	  group: ["league"],
 	  origin: ["game"],
@@ -832,7 +832,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Iris",
     img: "Black_2_White_2_Iris.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
       group: ["gym"],
 	  group: ["league"],
 	  origin: ["game"],
@@ -843,7 +843,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Cheren",
     img: "Black_2_White_2_Cheren.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
       group: ["trainer"],
 	  group: ["gym"],
 	  origin: ["game"],
@@ -854,7 +854,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Hala",
     img: "Sun_Moon_Hala.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["gym"],
 	  group: ["league"],
 	  origin: ["game"],
@@ -865,7 +865,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Olivia",
     img: "Sun_Moon_Olivia.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
 	  group: ["gym"],
 	  group: ["league"],
 	  origin: ["game"],
@@ -876,7 +876,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Acerola",
     img: "Sun_Moon_Acerola.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
 	  group: ["gym"],
 	  group: ["league"],
 	  origin: ["game"],
@@ -887,7 +887,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Bede",
     img: "Sword_Shield_Bede.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["trainer"],
 	  group: ["gym"],
 	  origin: ["game"],
@@ -898,7 +898,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Marnie",
     img: "Sword_Shield_Marnie.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
 	  group: ["trainer"],
 	  group: ["gym"],
 	  origin: ["game"],
@@ -909,7 +909,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Peony",
     img: "Sword_Shield_Peony.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["gym"],
 	  group: ["league"],
 	  origin: ["game"],
@@ -920,7 +920,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Mustard",
     img: "Sword_Shield_Mustard.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["gym"],
 	  group: ["league"],
 	  origin: ["game"],
@@ -931,7 +931,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Ingo",
     img: "Legends_Arceus_Ingo.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["trainer"],
 	  group: ["gym"],
 	  origin: ["game"],
@@ -942,7 +942,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Trace",
     img: "Lets_Go_Pikachu_Eevee_Rival.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["trainer"],
 	  group: ["league"],
 	  origin: ["game"],
@@ -953,7 +953,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Red",
     img: "Red_Sun_and_Moon.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["trainer"],
 	  group: ["league"],
 	  origin: ["game"],
@@ -964,7 +964,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Caitlin",
     img: "Black_White_Caitlin.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
 	  group: ["trainer"],
 	  group: ["league"],
 	  origin: ["game"],
@@ -975,7 +975,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Malva",
     img: "XY_Malva.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
 	  group: ["league"],
 	  group: ["villain"],
 	  origin: ["game"],
@@ -986,7 +986,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Charon",
     img: "Charon_Pt.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["prof"],
 	  group: ["villain"],
 	  origin: ["game"],
@@ -997,7 +997,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Natural Harmonia Gropius (N)",
     img: "Black_2_White_2_N.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["trainer"],
 	  group: ["villain"],
 	  origin: ["game"],
@@ -1008,7 +1008,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Colress",
     img: "Colress.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["prof"],
 	  group: ["villain"],
 	  origin: ["game"],
@@ -1019,7 +1019,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Joe",
     img: "Duel_Joe.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["gym"],
 	  origin: ["spin"],
 	  child: false
@@ -1029,7 +1029,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Tia",
     img: "Duel_Tia.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
 	  group: ["other"],
 	  origin: ["spin"],
 	  child: true
@@ -1039,7 +1039,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Brenda",
     img: "Duel_Brenda.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
 	  group: ["gym"],
 	  origin: ["spin"],
 	  child: false
@@ -1049,7 +1049,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Don Roger",
     img: "Duel_Don_Roger.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["gym"],
 	  origin: ["spin"],
 	  child: false
@@ -1059,7 +1059,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Sharon",
     img: "Duel_Sharon.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
 	  group: ["trainer"],
 	  origin: ["spin"],
 	  child: true
@@ -1069,7 +1069,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Number 7",
     img: "Duel_Number_7.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["gym"],
 	  origin: ["spin"],
 	  child: false
@@ -1079,7 +1079,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Nadya",
     img: "Duel_Nadya.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
 	  group: ["gym"],
 	  origin: ["spin"],
 	  child: false
@@ -1089,7 +1089,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Master Rosé",
     img: "Duel_Master_Rosé.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["gym"],
 	  origin: ["spin"],
 	  child: false
@@ -1099,7 +1099,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Marabelle",
     img: "Duel_Marabelle.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
 	  group: ["other"],
 	  origin: ["spin"],
 	  child: false
@@ -1109,7 +1109,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Luca",
     img: "Duel_Luca.png",
     opts: {
-      gender: ["Male"],
+      gender: ["male"],
 	  group: ["other"],
 	  origin: ["spin"],
 	  child: true
@@ -1119,7 +1119,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Karolin",
     img: "Duel_Karolin.png",
     opts: {
-      gender: ["Female"],
+      gender: ["female"],
 	  group: ["other"],
 	  origin: ["spin"],
 	  child: false
