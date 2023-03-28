@@ -21,6 +21,7 @@ dataSet[dataSetVersion].options = [
     sub: [
       { name: "Professors/Researchers", key: "prof" },
       { name: "Gym Leaders", key: "gym" },
+	  { name: "Villains", key: "villain" }
 	]
   },
     {
@@ -503,5 +504,247 @@ dataSet[dataSetVersion].characterData = [
 	  child: false
     }
   },
+    {
+    name: "Misty",
+    img: "Lets_Go_Pikachu_Eevee_Misty.png",
+    opts: {
+      gender: ["Female"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Lt. Surge",
+    img: "HGSS_Lt._Surge.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Erika",
+    img: "FRLG_Erika.png",
+    opts: {
+      gender: ["Female"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Janine",
+    img: "HeartGold_SoulSilver_Janine.png",
+    opts: {
+      gender: ["Female"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Sabrina",
+    img: "Sabrina_2.png",
+    opts: {
+      gender: ["Female"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Blaine",
+    img: "Blaine.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Giovanni",
+    img: "Giovanni_Ultra_Sun_and_Ultra_Moon.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Falkner",
+    img: "HeartGold_SoulSilver_Falkner.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Bugsy",
+    img: "HGSS_Bugsy.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Whitney",
+    img: "HGSS_Whitney.png",
+    opts: {
+      gender: ["Female"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Morty",
+    img: "HeartGold_SoulSilver_Morty.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Chuck",
+    img: "HeartGold_SoulSilver_Chuck.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Jasmine",
+    img: "HGSS_Jasmine.png",
+    opts: {
+      gender: ["Female"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Pryce",
+    img: "HGSS_Pryce.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Clair",
+    img: "HeartGold_SoulSilver_Clair.png",
+    opts: {
+      gender: ["Female"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Roxanne",
+    img: "Omega_Ruby_Alpha_Sapphire_Roxanne.png",
+    opts: {
+      gender: ["Female"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Brawly",
+    img: "Omega_Ruby_Alpha_Sapphire_Brawly.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Wattson",
+    img: "Omega_Ruby_Alpha_Sapphire_Wattson.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Flannery",
+    img: "Omega_Ruby_Alpha_Sapphire_Flannery.png",
+    opts: {
+      gender: ["Female"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Norman",
+    img: "Omega_Ruby_Alpha_Sapphire_Norman.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Winona",
+    img: "Omega_Ruby_Alpha_Sapphire_Winona.png",
+    opts: {
+      gender: ["Female"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Tate",
+    img: "tate.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Liza",
+    img: "liza.png",
+    opts: {
+      gender: ["Female"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Juan",
+    img: "Emerald_Juan.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  }
+  
   
 ];
