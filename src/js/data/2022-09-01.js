@@ -21,7 +21,9 @@ dataSet[dataSetVersion].options = [
     sub: [
       { name: "Professors/Researchers", key: "prof" },
       { name: "Gym Leaders", key: "gym" },
-	  { name: "Villains", key: "villain" }
+	  { name: "Pokemon League", key: "league" },
+	  { name: "Villains", key: "villain" },
+	  { name: "Pokemon Trainers", key: "trainer" }
 	]
   },
     {
@@ -741,6 +743,272 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       gender: ["Male"],
       group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Dr. Namba",
+    img: "Dr_Namba.png",
+    opts: {
+      gender: ["Male"],
+      group: ["prof"],
+	  group: ["villain"],
+	  origin: ["anime"],
+	  child: false
+    }
+  },
+    {
+    name: "Faba",
+    img: "Sun_Moon_Faba.png",
+    opts: {
+      gender: ["Male"],
+      group: ["prof"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Molayne",
+    img: "Sun_Moon_Molayne.png",
+    opts: {
+      gender: ["Male"],
+      group: ["prof"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Koga",
+    img: "HGSS_Koga.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Koga",
+    img: "HGSS_Koga.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Blue",
+    img: "Sun_Moon_Blue.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["trainer"],
+      group: ["gym"],
+	  group: ["league"],
+	  group: ["prof"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Wallace",
+    img: "Omega_Ruby_Alpha_Sapphire_Wallace.png",
+    opts: {
+      gender: ["Male"],
+      group: ["gym"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Iris",
+    img: "Black_2_White_2_Iris.png",
+    opts: {
+      gender: ["Female"],
+      group: ["gym"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Cheren",
+    img: "Black_2_White_2_Cheren.png",
+    opts: {
+      gender: ["Male"],
+      group: ["trainer"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Hala",
+    img: "Sun_Moon_Hala.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["gym"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Olivia",
+    img: "Sun_Moon_Olivia.png",
+    opts: {
+      gender: ["Female"],
+	  group: ["gym"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Acerola",
+    img: "Sun_Moon_Acerola.png",
+    opts: {
+      gender: ["Female"],
+	  group: ["gym"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Bede",
+    img: "Sword_Shield_Bede.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["trainer"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Marnie",
+    img: "Sword_Shield_Marnie.png",
+    opts: {
+      gender: ["Female"],
+	  group: ["trainer"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Peony",
+    img: "Sword_Shield_Peony.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["gym"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Mustard",
+    img: "Sword_Shield_Mustard.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["gym"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Ingo",
+    img: "Legends_Arceus_Ingo.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["trainer"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Trace",
+    img: "Lets_Go_Pikachu_Eevee_Rival.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["trainer"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Red",
+    img: "Red_Sun_and_Moon.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["trainer"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Caitlin",
+    img: "Black_White_Caitlin.png",
+    opts: {
+      gender: ["Female"],
+	  group: ["trainer"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Malva",
+    img: "XY_Malva.png",
+    opts: {
+      gender: ["Female"],
+	  group: ["league"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Charon",
+    img: "Charon_Pt.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["prof"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Natural Harmonia Gropius (N)",
+    img: "Black_2_White_2_N.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["trainer"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Colress",
+    img: "Colress.png",
+    opts: {
+      gender: ["Male"],
+	  group: ["prof"],
+	  group: ["villain"],
 	  origin: ["game"],
 	  child: false
     }
