@@ -43,7 +43,7 @@ dataSet[dataSetVersion].options = [
     name: "Remove Likely Children",
     key: "child",
     tooltip: "Check this to remove all characters that are likely to be children",
-    checked: true
+    checked: false
   }
 ];
 
@@ -94,7 +94,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       gender: ["male"],
       group: ["prof"],
-	  origin: ["game"],
+	  origin: ["spin"],
 	  child: false
     }
   },
@@ -934,7 +934,7 @@ dataSet[dataSetVersion].characterData = [
       gender: ["male"],
 	  group: ["trainer"],
 	  group: ["gym"],
-	  origin: ["game"],
+	  origin: ["spin"],
 	  child: false
     }
   },
@@ -1124,7 +1124,1128 @@ dataSet[dataSetVersion].characterData = [
 	  origin: ["spin"],
 	  child: false
     }
+  },
+    {
+    name: "Roark",
+    img: "Roark_Diamond_and_Pearl.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Gardenia",
+    img: "Diamond_Pearl_Gardenia.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Maylene",
+    img: "Maylene.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Crasher Wake",
+    img: "Crasher_Wake.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Fantina",
+    img: "Fantina.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Byron",
+    img: "Diamond_Pearl_Byron.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Candice",
+    img: "Candice.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Volkner",
+    img: "Volkner.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Cilan",
+    img: "Cilan.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Chili",
+    img: "Black_White_Chili.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Cress",
+    img: "Black_White_Cress.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Lenora",
+    img: "Black_White_Lenora_2.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Burgh",
+    img: "Black_White_Burgh.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Elesa",
+    img: "Black_2_White_2_Elesa.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Clay",
+    img: "Black_White_Clay.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Skyla",
+    img: "Black_White_Skyla.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Brycen",
+    img: "Brycen.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Drayden",
+    img: "Black_White_Drayden.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Roxie",
+    img: "Roxie.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Marlon",
+    img: "Marlon.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Viola",
+    img: "Viola.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Grant",
+    img: "XY_Grant.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Korrina",
+    img: "XY_Korrina.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Ramos",
+    img: "XY_Ramos.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Clemont",
+    img: "XY_Clemont.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Valerie",
+    img: "XY_Valerie.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Olympia",
+    img: "XY_Olympia.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Wulfric",
+    img: "XY_Wulfric.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Ilima",
+    img: "Sun_Moon_Ilima.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Lana",
+    img: "Sun_Moon_Lana.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Kiawe",
+    img: "Sun_Moon_Kiawe.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Mallow",
+    img: "Sun_Moon_Mallow.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Sophocles",
+    img: "Sun_Moon_Sophocles.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Nanu",
+    img: "Sun_Moon_Nanu.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Mina",
+    img: "Mina.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Hapu",
+    img: "Sun_Moon_Hapu.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Milo",
+    img: "Sword_Shield_Milo.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Nessa",
+    img: "Sword_Shield_Nessa.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Kabu",
+    img: "Kabu.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Bea",
+    img: "Sword_Shield_Bea.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Allister",
+    img: "Sword_Shield_Allister.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Opal",
+    img: "Sword_Shield_Opal.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Gordie",
+    img: "Sword_Shield_Gordie.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Melony",
+    img: "Melony.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Piers",
+    img: "Sword_Shield_Piers.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Raihan",
+    img: "Sword_Shield_Raihan.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Klara",
+    img: "Sword_Shield_Klara.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Avery",
+    img: "Sword_Shield_Avery.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Grusha",
+    img: "Scarlet_Violet_Grusha.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Cissy",
+    img: "CissyFull.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["anime"],
+	  child: false
+    }
+  },
+    {
+    name: "Rudy",
+    img: "Rudy.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["anime"],
+	  child: true
+    }
+  },
+    {
+    name: "Luana",
+    img: "Luana.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["anime"],
+	  child: false
+    }
+  },
+    {
+    name: "Drake (Orange Islands)",
+    img: "Drake_Orange_Islands.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["anime"],
+	  child: false
+    }
+  },
+    {
+    name: "Mai",
+    img: "Legends_Arceus_Mai.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Lian",
+    img: "Legends_Arceus_Lian.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Arezu",
+    img: "Legends_Arceus_Arezu.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Calaba",
+    img: "Legends_Arceus_Calaba.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Iscan",
+    img: "Legends_Arceus_Iscan.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Palina",
+    img: "Legends_Arceus_Palina.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Melli",
+    img: "Legends_Arceus_Melli.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Sabi",
+    img: "Legends_Arceus_Sabi.png",
+    opts: {
+      gender: ["female"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: true
+    }
+  },
+    {
+    name: "Gaeric",
+    img: "Legends_Arceus_Gaeric.png",
+    opts: {
+      gender: ["male"],
+	  group: ["gym"],
+	  origin: ["spin"],
+	  child: false
+    }
+  },
+    {
+    name: "Lorelei",
+    img: "Lorelei.png",
+    opts: {
+      gender: ["female"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Bruno",
+    img: "Bruno.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Agatha",
+    img: "Agatha_FireRed_and_LeafGreen.png",
+    opts: {
+      gender: ["female"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Lance",
+    img: "Lets_Go_Pikachu_Eevee_Lance.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Will",
+    img: "HeartGold_SoulSilver_Will.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Karen",
+    img: "HeartGold_SoulSilver_Karen.png",
+    opts: {
+      gender: ["female"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Sidney",
+    img: "Omega_Ruby_Alpha_Sapphire_Sidney.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Phoebe",
+    img: "Omega_Ruby_Alpha_Sapphire_Phoebe.png",
+    opts: {
+      gender: ["female"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: true
+    }
+  },
+    {
+    name: "Glacia",
+    img: "Omega_Ruby_Alpha_Sapphire_Glacia.png",
+    opts: {
+      gender: ["female"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Drake",
+    img: "Omega_Ruby_Alpha_Sapphire_Drake.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Steven Stone",
+    img: "Omega_Ruby_Alpha_Sapphire_Steven.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Aaron",
+    img: "Diamond_Pearl_Aaron.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Bertha",
+    img: "Diamond_Pearl_Bertha.png",
+    opts: {
+      gender: ["female"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Flint",
+    img: "Diamond_Pearl_Flint.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Lucian",
+    img: "Diamond_Pearl_Lucian.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Cynthia",
+    img: "Cynthia_Diamond_and_Pearl.png",
+    opts: {
+      gender: ["female"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Shauntal",
+    img: "Black_White_Shauntal.png",
+    opts: {
+      gender: ["female"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Marshal",
+    img: "Black_White_Marshal.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Grimsley",
+    img: "Black_White_Grimsley.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Alder",
+    img: "Black_White_Alder.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Siebold",
+    img: "XY_Siebold.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Wikstrom",
+    img: "XY_Wikstrom.png",
+    opts: {
+      gender: ["male"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Drasna",
+    img: "XY_Drasna.png",
+    opts: {
+      gender: ["female"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Diantha",
+    img: "XY_Diantha.png",
+    opts: {
+      gender: ["female"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Kahili",
+    img: "Sun_Moon_Kahili.png",
+    opts: {
+      gender: ["female"],
+	  group: ["league"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Archer",
+    img: "HeartGold_SoulSilver_Archer.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Jesse",
+    img: "Jessie_JN.png",
+    opts: {
+      gender: ["female"],
+	  group: ["villain"],
+	  origin: ["anime"],
+	  child: false
+    }
+  },
+    {
+    name: "James",
+    img: "James_JN.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["anime"],
+	  child: false
+    }
+  },
+    {
+    name: "Butch",
+    img: "Butch_Journeys.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["anime"],
+	  child: false
+    }
+  },
+    {
+    name: "Cassidy",
+    img: "Cassidy_Journeys.png",
+    opts: {
+      gender: ["female"],
+	  group: ["villain"],
+	  origin: ["anime"],
+	  child: false
+    }
+  },
+    {
+    name: "Domino",
+    img: "Domino.png",
+    opts: {
+      gender: ["female"],
+	  group: ["villain"],
+	  origin: ["anime"],
+	  child: false
+    }
+  },
+    {
+    name: "Marauder",
+    img: "Marauder_Profile.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["anime"],
+	  child: false
+    }
+  },
+    {
+    name: "Matori",
+    img: "Matori.png",
+    opts: {
+      gender: ["female"],
+	  group: ["villain"],
+	  origin: ["anime"],
+	  child: false
+    }
+  },
+    {
+    name: "Ariana",
+    img: "HeartGold_SoulSilver_Ariana.png",
+    opts: {
+      gender: ["female"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Petrel",
+    img: "HeartGold_SoulSilver_Petrel.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Proton",
+    img: "HeartGold_SoulSilver_Proton.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Maxie",
+    img: "Omega_Ruby_Alpha_Sapphire_Maxie.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Courtney",
+    img: "Omega_Ruby_Alpha_Sapphire_Courtney.png",
+    opts: {
+      gender: ["female"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Tabitha",
+    img: "Omega_Ruby_Alpha_Sapphire_Tabitha.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Archie",
+    img: "Omega_Ruby_Alpha_Sapphire_Archie.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Shelly",
+    img: "Omega_Ruby_Alpha_Sapphire_Shelly.png",
+    opts: {
+      gender: ["female"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Matt",
+    img: "Omega_Ruby_Alpha_Sapphire_Matt.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Cyrus",
+    img: "Omega_Ruby_Alpha_Sapphire_Cyrus.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Mars",
+    img: "Mars_DPPt.png",
+    opts: {
+      gender: ["female"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Saturn",
+    img: "Saturn_Diamond_and_Pearl.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Jupiter",
+    img: "Jupiter_DPPt.png",
+    opts: {
+      gender: ["female"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Ghetsis Harmonia Gropius",
+    img: "Black_2_White_2_Ghetsis.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Zinzolin",
+    img: "Black_2_White_2_Zinzolin.png",
+    opts: {
+      gender: ["male"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Anthea",
+    img: "Black_2_White_2_Anthea.png",
+    opts: {
+      gender: ["female"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
+  },
+    {
+    name: "Concordia",
+    img: "Black_2_White_2_Concordia.png",
+    opts: {
+      gender: ["female"],
+	  group: ["villain"],
+	  origin: ["game"],
+	  child: false
+    }
   }
+  
   
   
 ];
