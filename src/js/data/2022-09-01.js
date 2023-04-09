@@ -2167,7 +2167,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "Cyrus",
-    img: "Omega_Ruby_Alpha_Sapphire_Cyrus.png",
+    img: "Cyrus.png",
     opts: {
       gender: ["male"],
 	  group: ["villain"],
